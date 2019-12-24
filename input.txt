@@ -1,0 +1,2 @@
+ask for coords of both locations
+grab angle in f3 menu
